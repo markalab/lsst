@@ -1,0 +1,77 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+}
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-decoration: none;
+    color: #999/*#2A5DB0,0087BD,999*/;
+/* 
+    font-size: 1.25em
+ */
+}
+/* 
+a:hover {
+    text-decoration: underline;
+}
+ */
+/*nav a {
+	text-decoration:none;
+	color: #999;
+}*/
+h2 {
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h3 {
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+    font-size: 1.25em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    line-height: 1.25em;
+    color: #333;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+ul li {
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	font-size:1.25em;
+}
+/* 
+img {
+    float:left;
+}
+ */
+ 
+figcaption {
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+
+}
+
+html *
+{
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
