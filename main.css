@@ -73,11 +73,12 @@ ul li {
 	font-family:"Lucida Console", 'Monaco', 'monospace';
 	font-size:1.25em;
 }
-/* 
+ 
 img {
-    float:left;
+	float:left;
+	width: 100%;
 }
- */
+
 .responsive {
 	width: 100%;
 	height: auto
