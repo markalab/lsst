@@ -70,6 +70,13 @@ img {
 	width: 100%;
 	height: auto
 }
+figure {
+  float: left;
+  width: 100%;
+  text-align: left;
+  font-style: italic;
+  font-size: smaller;
+}
 figcaption {
 	font-family:"Lucida Console", 'Monaco', 'monospace';
 
