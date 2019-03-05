@@ -2,47 +2,44 @@ body {
     margin: 60px auto;
     width: 80%;
 }
+/*
 .sidenav {
-  height: 100%; /* 100% Full-height */
-  width: 0; /* 0 width - change this with JavaScript */
-  position: fixed; /* Stay in place */
-  z-index: 1; /* Stay on top */
-  top: 0; /* Stay at the top */
+  height: 100%; 
+  width: 0; 
+  position: fixed; /* Stay in place 
+  z-index: 1; /* Stay on top 
+  top: 0; /* Stay at the top
   left: 0;
-  /*background-color: #111;  Black*/
-  overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 60px; /* Place content 60px from the top */
-  /*transition: 0.5s;  0.5 second transition effect to slide in the sidenav */
+  /*background-color: #111;  Black
+  overflow-x: hidden; /* Disable horizontal scroll 
+  padding-top: 60px; /* Place content 60px from the top 
+  /*transition: 0.5s;  0.5 second transition effect to slide in the sidenav
 }
-
-.sidenav nav ul, footer ul {
+*/
+nav ul, footer ul {
     font-family:"Lucida Console", 'Monaco', 'monospace';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-.sidenav nav ul li, footer ul li {
-    display: block;
+nav ul li, footer ul li {
+    display: inline;
     margin-right: 20px;
 }
-.sidenav a {
+a {
     font-family:"Lucida Console", 'Monaco', 'monospace';
     text-decoration: none;
     color: #999/*#2A5DB0,0087BD,999*/;
-/* 
-    font-size: 1.25em
- */
+    font-size: 1.25em 
 }
-.sidenav a:hover {
+a:hover {
     background-color: #555;
     text-decoration: underline;
 }
-/*
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
-
 ul.posts li {
     list-style: none;
 }
@@ -50,7 +47,6 @@ ul li {
 	font-family:"Lucida Console", 'Monaco', 'monospace';
 	font-size:1.25em;
 }
-*/
 h2 {
     font-size: 2em;
     font-family:"Lucida Console", 'Monaco', 'monospace';
@@ -69,12 +65,10 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
 img {
 	float:left;
 	width: 100%;
 }
-
 .responsive {
 	width: 100%;
 	height: auto
@@ -89,7 +83,6 @@ figcaption {
 	font-style: italic;
 	font-size: smaller;
 }
-
 html *
 {
 	font-family:"Lucida Console", 'Monaco', 'monospace';
