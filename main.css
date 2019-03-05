@@ -2,20 +2,6 @@ body {
     margin: 60px auto;
     width: 80%;
 }
-/*
-.sidenav {
-  height: 100%; 
-  width: 0; 
-  position: fixed; /* Stay in place 
-  z-index: 1; /* Stay on top 
-  top: 0; /* Stay at the top
-  left: 0;
-  /*background-color: #111;  Black
-  overflow-x: hidden; /* Disable horizontal scroll 
-  padding-top: 60px; /* Place content 60px from the top 
-  /*transition: 0.5s;  0.5 second transition effect to slide in the sidenav
-}
-*/
 nav ul, footer ul {
     font-family:"Lucida Console", 'Monaco', 'monospace';
     padding: 0px;
@@ -26,13 +12,13 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-a {
+nav a {
     font-family:"Lucida Console", 'Monaco', 'monospace';
     text-decoration: none;
     color: #999/*#2A5DB0,0087BD,999*/;
-    font-size: 1.25em 
+    /*font-size: 1.25em*/ 
 }
-a:hover {
+nav a:hover {
     background-color: #555;
     text-decoration: underline;
 }
