@@ -16,7 +16,7 @@ nav a {
     font-family:"Lucida Console", 'Monaco', 'monospace';
     text-decoration: none;
     color: #999/*#2A5DB0,0087BD,999*/;
-    /*font-size: 1.25em*/ 
+    font-size: 1.25em 
 }
 nav a:hover {
     background-color: #555;
