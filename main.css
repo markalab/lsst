@@ -25,7 +25,7 @@ nav ul li, footer ul li {
     display: block;
     margin-right: 20px;
 }
-a {
+.sidenav a {
     font-family:"Lucida Console", 'Monaco', 'monospace';
     text-decoration: none;
     color: #999/*#2A5DB0,0087BD,999*/;
@@ -33,8 +33,7 @@ a {
     font-size: 1.25em
  */
 }
- 
-a:hover {
+.sidenav a:hover {
     background-color: #555;
     text-decoration: underline;
 }
