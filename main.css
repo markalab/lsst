@@ -17,7 +17,7 @@ nav a {
     font-family:"Major Mono Display";
     text-decoration: none;
     color: #999/*#2A5DB0,0087BD,999*/;
-    font-size: 1.25em 
+    font-size: 1em 
 }
 nav a:hover {
     background-color: #555;
@@ -32,7 +32,7 @@ ul.posts li {
 }
 ul li {
 	font-family:"Major Mono Display";
-	font-size:1.25em;
+	font-size:1em;
 }
 h2 {
     font-size: 2em;
