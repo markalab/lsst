@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 80%;
+    width: 100%;
 }
 nav ul, footer ul {
     font-family:"Lucida Console", 'Monaco', 'monospace';
@@ -46,6 +46,7 @@ p {
     font-family:"Lucida Console", 'Monaco', 'monospace';
     line-height: 1.25em;
     color: #333;
+    width: 80%;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -54,6 +55,7 @@ footer {
 img {
 	float:left;
 	width: 100%;
+	filter: brightness(100%);
 }
 .responsive {
 	width: 100%;
@@ -63,6 +65,7 @@ figure {
   float: left;
   width: 100%;
   text-align: left;
+  filter: brightness(100%);
 }
 figcaption {
 	font-family:"Lucida Console", 'Monaco', 'monospace';
