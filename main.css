@@ -36,10 +36,12 @@ ul li {
 h2 {
     font-size: 2em;
     font-family:"Lucida Console", 'Monaco', 'monospace';
+    width: 80%;
 }
 h3 {
     font-size: 1.5em;
     font-family:"Lucida Console", 'Monaco', 'monospace';
+    width: 80%;
 }
 p {
     font-size: 1.25em;
