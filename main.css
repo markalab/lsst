@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
-    width: 100%;
+    width: 100%; 
+    font-family:"Major Mono Display";
 }
 nav ul, footer ul {
     font-family:"Major Mono Display";
@@ -48,7 +49,7 @@ p {
     font-family:"Major Mono Display";
     line-height: 1.25em;
     color: #333;
-    width: 80%;
+    width: 90%;
 }
 footer {
     border-top: 1px solid #d5d5d5;
