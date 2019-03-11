@@ -3,7 +3,7 @@ body {
     width: 100%;
 }
 nav ul, footer ul {
-    font-family:"Lucida Console", 'Monaco', 'monospace';
+    font-family:"Major Mono Display";
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -13,7 +13,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 nav a {
-    font-family:"Lucida Console", 'Monaco', 'monospace';
+    font-family:"Major Mono Display";
     text-decoration: none;
     color: #999/*#2A5DB0,0087BD,999*/;
     font-size: 1.25em 
@@ -30,7 +30,7 @@ ul.posts li {
     list-style: none;
 }
 ul li {
-	font-family:"Lucida Console", 'Monaco', 'monospace';
+	font-family:"Major Mono Display";
 	font-size:1.25em;
 }
 h2 {
@@ -40,12 +40,12 @@ h2 {
 }
 h3 {
     font-size: 1.5em;
-    font-family:"Lucida Console", 'Monaco', 'monospace';
+    font-family:"Major Mono Display";
     width: 80%;
 }
 p {
     font-size: 1.25em;
-    font-family:"Lucida Console", 'Monaco', 'monospace';
+    font-family:"Major Mono Display";
     line-height: 1.25em;
     color: #333;
     width: 80%;
@@ -70,13 +70,13 @@ figure {
   filter: brightness(100%);
 }
 figcaption {
-	font-family:"Lucida Console", 'Monaco', 'monospace';
+	font-family:"Major Mono Display";
 	font-style: italic;
 	font-size: smaller;
 }
 html *
 {
-	font-family:"Lucida Console", 'Monaco', 'monospace';
+	font-family:"Major Mono Display";
 }
 
 /*banner*/
