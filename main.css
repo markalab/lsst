@@ -57,7 +57,7 @@ footer {
 }
 img {
 	float:left;
-	width: 80%;
+	width: 100%;
 	filter: brightness(100%);
 }
 .responsive {
